@@ -7,3 +7,14 @@ C:\Users\Wes\Projects\LibraryDemo\Library\LibraryService\obj\Debug\netcoreapp1.1
 C:\Users\Wes\Projects\LibraryDemo\Library\LibraryService\obj\Debug\netcoreapp1.1\LibraryService.AssemblyInfo.cs
 C:\Users\Wes\Projects\LibraryDemo\Library\LibraryService\obj\Debug\netcoreapp1.1\LibraryService.dll
 C:\Users\Wes\Projects\LibraryDemo\Library\LibraryService\obj\Debug\netcoreapp1.1\LibraryService.pdb
+D:\Github\library-management-system\LibraryService\bin\Debug\netcoreapp1.1\LibraryService.deps.json
+D:\Github\library-management-system\LibraryService\bin\Debug\netcoreapp1.1\LibraryService.dll
+D:\Github\library-management-system\LibraryService\bin\Debug\netcoreapp1.1\LibraryService.pdb
+D:\Github\library-management-system\LibraryService\bin\Debug\netcoreapp1.1\LibraryData.dll
+D:\Github\library-management-system\LibraryService\bin\Debug\netcoreapp1.1\LibraryData.pdb
+D:\Github\library-management-system\LibraryService\obj\Debug\netcoreapp1.1\LibraryService.csprojResolveAssemblyReference.cache
+D:\Github\library-management-system\LibraryService\obj\Debug\netcoreapp1.1\LibraryService.csproj.CoreCompileInputs.cache
+D:\Github\library-management-system\LibraryService\obj\Debug\netcoreapp1.1\LibraryService.AssemblyInfoInputs.cache
+D:\Github\library-management-system\LibraryService\obj\Debug\netcoreapp1.1\LibraryService.AssemblyInfo.cs
+D:\Github\library-management-system\LibraryService\obj\Debug\netcoreapp1.1\LibraryService.dll
+D:\Github\library-management-system\LibraryService\obj\Debug\netcoreapp1.1\LibraryService.pdb

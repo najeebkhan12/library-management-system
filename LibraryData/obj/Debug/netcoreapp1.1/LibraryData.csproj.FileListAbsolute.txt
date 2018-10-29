@@ -5,3 +5,12 @@ C:\Users\Wes\Projects\LibraryDemo\Library\LibraryData\obj\Debug\netcoreapp1.1\Li
 C:\Users\Wes\Projects\LibraryDemo\Library\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.dll
 C:\Users\Wes\Projects\LibraryDemo\Library\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.pdb
 C:\Users\Wes\Projects\LibraryDemo\Library\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.csprojResolveAssemblyReference.cache
+D:\Github\library-management-system\LibraryData\bin\Debug\netcoreapp1.1\LibraryData.deps.json
+D:\Github\library-management-system\LibraryData\bin\Debug\netcoreapp1.1\LibraryData.dll
+D:\Github\library-management-system\LibraryData\bin\Debug\netcoreapp1.1\LibraryData.pdb
+D:\Github\library-management-system\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.csprojResolveAssemblyReference.cache
+D:\Github\library-management-system\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.csproj.CoreCompileInputs.cache
+D:\Github\library-management-system\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.AssemblyInfoInputs.cache
+D:\Github\library-management-system\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.AssemblyInfo.cs
+D:\Github\library-management-system\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.dll
+D:\Github\library-management-system\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.pdb
